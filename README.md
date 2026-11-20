@@ -11,7 +11,7 @@
 
 ## Download
 
-Available on the **Microsoft Store** (link coming soon).
+Available on the [Microsoft Store](https://apps.microsoft.com/detail/9NBLGGH4WM0Q).
 
 ## Support & Issues
 
