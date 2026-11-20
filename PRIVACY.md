@@ -2,7 +2,7 @@
 
 **Last updated:** November 2026
 
-**LiveStickies** does not collect, store, or share any personal data. The app runs completely offline, and your notes and settings stay on your computer under your control.
+**LiveStickies** does not collect, access, or share any personal data. Your notes and settings are stored using standard Windows app storage and remain under your control (including any syncing or backup managed by Windows or your Microsoft account settings).
 
 Because LiveStickies is distributed through the Microsoft Store, Windows and the Microsoft Store may collect standard diagnostic information according to your system settings and Microsoft’s privacy policies.
 
